@@ -23,6 +23,8 @@ function fetchRandomTweet(msg)
         
 
         msg.send('@' + msg.message.user.name + ' ' + tweet.author_name[0].text + '(@' + tweet.author_handle[0].text + ')' + ' tweeted "' + tweet.tweet[0].text + '"');
+    }).catch(function(e){
+        msg.send('@' + msg.message.user.name + ' ' + 'sorry I could not fetch information/tweet about laracon eu');
     });
 }
 
