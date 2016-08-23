@@ -1,3 +1,9 @@
+# Larabot hubot
+
+A demo hubot chatbot for Laracon EU 2016.
+
+## Original Readme below
+
 # larabot
 
 larabot is a chat bot built on the [Hubot][hubot] framework. It was
