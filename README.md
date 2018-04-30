@@ -1,5 +1,7 @@
 # Larabot hubot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/geshan/larabot-hubot.svg)](https://greenkeeper.io/)
+
 A demo hubot chatbot for Laracon EU 2016.
 
 ## Original Readme below
